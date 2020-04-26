@@ -10,4 +10,8 @@ For the statistician in you, we have also integrated statistical function for yo
 without involving external programs  
 
 
-Jointly created by Fiona Chan, CT Ho & Shannen Lam
+
+
+
+
+*Jointly created by Fiona Chan, CT Ho & Shannen Lam
