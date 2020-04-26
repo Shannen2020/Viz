@@ -8,3 +8,6 @@ View informative trends and stats represented by clean graphical representations
 ## --- Delve Deeper --- ##
 For the statistician in you, we have also integrated statistical function for you to prove your own hypothesis on the fly
 without involving external programs  
+
+
+Jointly created by Fiona Chan, CT Ho & Shannen Lam
