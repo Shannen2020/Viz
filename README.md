@@ -1,5 +1,4 @@
-# Viz
-WELCOME !
+# WELCOME !
 
 SPIVA app is created for understanding of SG private property transaction data without running through chunks of data.
 
